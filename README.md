@@ -1,6 +1,6 @@
 ### Backend and distributed-systems engineer · Haskell
 
-Founding engineer at [SimpleX Chat](https://github.com/simplex-chat/simplex-chat) since 2020: an open-source, private messaging network with no user identifiers and 1M+ Google Play installs. I built large parts of its Haskell client core and the chat relays behind channels, design much of the chat protocol and wrote 30+ design RFCs.
+Founding engineer at [SimpleX Chat](https://github.com/simplex-chat/simplex-chat) since 2020: an open-source, private messaging network with no user identifiers and 1M+ Google Play installs. I built large parts of its Haskell client core and the chat relays behind channels, design much of the chat protocol and wrote 30+ design RFCs. Since 2023 I've also authored over a third of the iOS app's code changes, and over half in 2026.
 
 #### Selected work
 
